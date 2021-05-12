@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/alchemy-cordial/static/css/main.09719540.chunk.css",
+    "main.js": "/alchemy-cordial/static/js/main.8aa31b95.chunk.js",
+    "main.js.map": "/alchemy-cordial/static/js/main.8aa31b95.chunk.js.map",
+    "runtime-main.js": "/alchemy-cordial/static/js/runtime-main.7c381f1d.js",
+    "runtime-main.js.map": "/alchemy-cordial/static/js/runtime-main.7c381f1d.js.map",
+    "static/js/2.c5e46d5b.chunk.js": "/alchemy-cordial/static/js/2.c5e46d5b.chunk.js",
+    "static/js/2.c5e46d5b.chunk.js.map": "/alchemy-cordial/static/js/2.c5e46d5b.chunk.js.map",
+    "static/js/3.a3193c79.chunk.js": "/alchemy-cordial/static/js/3.a3193c79.chunk.js",
+    "static/js/3.a3193c79.chunk.js.map": "/alchemy-cordial/static/js/3.a3193c79.chunk.js.map",
+    "index.html": "/alchemy-cordial/index.html",
+    "static/css/main.09719540.chunk.css.map": "/alchemy-cordial/static/css/main.09719540.chunk.css.map",
+    "static/js/2.c5e46d5b.chunk.js.LICENSE.txt": "/alchemy-cordial/static/js/2.c5e46d5b.chunk.js.LICENSE.txt",
+    "static/media/Darril_Ling_Photo.596df1d8.png": "/alchemy-cordial/static/media/Darril_Ling_Photo.596df1d8.png",
+    "static/media/company_logo.15f66fa2.png": "/alchemy-cordial/static/media/company_logo.15f66fa2.png",
+    "static/media/elixirs.5d7b8548.jpg": "/alchemy-cordial/static/media/elixirs.5d7b8548.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c381f1d.js",
+    "static/js/2.c5e46d5b.chunk.js",
+    "static/css/main.09719540.chunk.css",
+    "static/js/main.8aa31b95.chunk.js"
+  ]
+}
