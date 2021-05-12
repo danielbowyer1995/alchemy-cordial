@@ -1,0 +1,12 @@
+.content-box {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    width: 75%;
+    margin: 0;
+    padding: 16px;
+
+    .content-item {
+        padding: 16px;
+    }
+}
