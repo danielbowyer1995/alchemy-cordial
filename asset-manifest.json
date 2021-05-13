@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/alchemy-cordial/static/css/main.9f83e758.chunk.css",
-    "main.js": "/alchemy-cordial/static/js/main.f7a38235.chunk.js",
-    "main.js.map": "/alchemy-cordial/static/js/main.f7a38235.chunk.js.map",
+    "main.css": "/alchemy-cordial/static/css/main.6f8f9b2c.chunk.css",
+    "main.js": "/alchemy-cordial/static/js/main.27efc27f.chunk.js",
+    "main.js.map": "/alchemy-cordial/static/js/main.27efc27f.chunk.js.map",
     "runtime-main.js": "/alchemy-cordial/static/js/runtime-main.3ec5faa3.js",
     "runtime-main.js.map": "/alchemy-cordial/static/js/runtime-main.3ec5faa3.js.map",
     "static/js/2.9efb734c.chunk.js": "/alchemy-cordial/static/js/2.9efb734c.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.5fd8b99b.chunk.js": "/alchemy-cordial/static/js/3.5fd8b99b.chunk.js",
     "static/js/3.5fd8b99b.chunk.js.map": "/alchemy-cordial/static/js/3.5fd8b99b.chunk.js.map",
     "index.html": "/alchemy-cordial/index.html",
-    "static/css/main.9f83e758.chunk.css.map": "/alchemy-cordial/static/css/main.9f83e758.chunk.css.map",
+    "static/css/main.6f8f9b2c.chunk.css.map": "/alchemy-cordial/static/css/main.6f8f9b2c.chunk.css.map",
     "static/js/2.9efb734c.chunk.js.LICENSE.txt": "/alchemy-cordial/static/js/2.9efb734c.chunk.js.LICENSE.txt",
     "static/media/Darril_Ling_Photo.596df1d8.png": "/alchemy-cordial/static/media/Darril_Ling_Photo.596df1d8.png",
     "static/media/company_logo.15f66fa2.png": "/alchemy-cordial/static/media/company_logo.15f66fa2.png",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.3ec5faa3.js",
     "static/js/2.9efb734c.chunk.js",
-    "static/css/main.9f83e758.chunk.css",
-    "static/js/main.f7a38235.chunk.js"
+    "static/css/main.6f8f9b2c.chunk.css",
+    "static/js/main.27efc27f.chunk.js"
   ]
 }
