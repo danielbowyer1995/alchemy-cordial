@@ -1,4 +1,4 @@
-import eliteFinestFoods from '../../../assets/contacts-logos/elite-fine-foods.jpg'
+import elite from '../../../assets/contacts-logos/elite-fine-foods.jpg'
 
 export const DISTRIBUTOR_DATA = [
     {
@@ -8,7 +8,7 @@ export const DISTRIBUTOR_DATA = [
         email: 'info@elitefinefoods.co.uk',
         address: 'WWW.elitefinefoods.co.uk',
         alt: 'elite-fine-foods',
-        src: {eliteFinestFoods}
+        src: "https://i.ibb.co/mzsZsjw/elite-fine-foods.jpg"
     },
     {
         id: 2,
