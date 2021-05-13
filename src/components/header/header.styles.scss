@@ -1,4 +1,28 @@
 .header-box {
-    height: 300px;
+    text-align: -webkit-center;
+    margin-top: 16px;
+    height: 325px;
     background-color: white;
+
+    .nav-menu {
+        margin: 10px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        width: 400px;
+        border-top: solid;
+        border-color: #af0522;
+
+        .nav-option { 
+            color: #af0522;
+            transition: transform .4s;
+
+            &:hover {
+                cursor: pointer;
+                transform: scale(1.1);
+            }
+
+            
+        }
+    }
 }

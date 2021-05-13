@@ -3,17 +3,18 @@ import { React, Component } from 'react'
 import './home.styles.scss'
 
 import ContentBox from '../../components/content-box/content-box.component'
-import Header from '../../components/header/header.coponent'
 
 import darril from '../../assets/Darril_Ling_Photo.png'
 import elixir from '../../assets/elixirs.jpg'
+import ContactList from '../../components/contact-list/contact-list.component'
 
 class Home extends Component {
     render(){
         return(
             <div className='home-page'>
-                <Header />
-                <img className='large-banner-image' alt='alchemy-elixir' src={elixir}/>
+                <div>
+                    <img className='large-banner-image' alt='alchemy-elixir' src={elixir}/>
+                </div>
                 <ContentBox 
                     header='Welcome to Alchemy Chordial'
                     descriptions={[
@@ -38,12 +39,7 @@ class Home extends Component {
                     ]}
                 />
                 </div>
-                <ContentBox
-                        header='contact us today' 
-                        descriptions={['Do you want to get your hands on our products?', 'Give Darril Ling a call on +44 7566 738444']}
-                />
-                <img style={{padding: "16px"}} alt='darril' src={darril}/>
-            </div>
+            </div>    
         )   
     }
 }

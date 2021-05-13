@@ -1,0 +1,16 @@
+.contact-list {
+    max-width: 1800px;
+    justify-items: center;
+    margin: 0 auto;
+    display: grid;
+    grid-gap: 1rem;
+    background-color: #af0522;
+}
+
+@media (min-width: 600px) {
+    .contact-list { grid-template-columns: repeat(2, 1fr); }
+}
+
+@media (min-width: 1200px) {
+    .contact-list { grid-template-columns: repeat(4, 1fr); }
+}
