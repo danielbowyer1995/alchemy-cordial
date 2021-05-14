@@ -1,16 +1,17 @@
 .contact-list {
     max-width: 1800px;
     justify-items: center;
+    padding-top: 16px;
     margin: 0 auto;
     display: grid;
     grid-gap: 1rem;
     background-color: #af0522;
 }
 
-@media (min-width: 600px) {
+@media (min-width: 725px) {
     .contact-list { grid-template-columns: repeat(2, 1fr); }
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1425px) {
     .contact-list { grid-template-columns: repeat(4, 1fr); }
 }

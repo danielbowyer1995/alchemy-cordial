@@ -9,4 +9,13 @@
     .content-item {
         padding: 8px;
     }
+
+    .image-wrapper {
+        margin-top: 20px;
+        height: 150px;
+
+        .content-image {
+            width: 250px;
+        }
+    }
 }

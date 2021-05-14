@@ -7,6 +7,7 @@ import {
 import Header from '../src/components/header/header.coponent'
 import Home from '../src/pages/home/home.component'
 import Distributors from '../src/pages/distributors/distributors.component'
+import Contact from "./pages/contact/contact.component";
 
 function App() {
   return (
@@ -16,6 +17,9 @@ function App() {
         <Switch>
           <Route exact path="/">
             <Home />
+          </Route>
+          <Route path="/contact">
+            <Contact />
           </Route>
           <Route path="/distributors">
             <Distributors />

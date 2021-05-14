@@ -14,9 +14,11 @@ const Header = () => (
             <h3 className='nav-option'>
                 Product List
             </h3>
-            <h3 className='nav-option'>
-                Contact Us
-            </h3>
+            <Link to="/contact">
+                <h3 className='nav-option'>
+                    Contact Us
+                </h3>
+            </Link>
             <Link to="/distributors">
                 <h3 className='nav-option'>
                     Distributor List

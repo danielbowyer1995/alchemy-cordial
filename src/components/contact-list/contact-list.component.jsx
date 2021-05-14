@@ -15,8 +15,8 @@ const ContactList = ({ contacts }) => (
                     src={contact.src}
                     name={contact.name}
                     number={contact.number}
-                    email={contact.email}
-                    address={contact.address}
+                    email={contact.email.toLowerCase()}
+                    address={contact.address.toLowerCase()}
                 />
             ))
         }

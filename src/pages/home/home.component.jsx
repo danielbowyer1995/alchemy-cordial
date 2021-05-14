@@ -26,7 +26,7 @@ class Home extends Component {
                 <div className='video-box'>
                     <iframe width="560" height="315" src="https://www.youtube.com/embed/We8zls8z8FU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
-                <div className='gold-background-box'>
+                <div className='white-background-box'>
                 <ContentBox 
                     header='about us'
                     descriptions={[
