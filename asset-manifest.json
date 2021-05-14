@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/alchemy-cordial/static/css/main.6f8f9b2c.chunk.css",
-    "main.js": "/alchemy-cordial/static/js/main.27efc27f.chunk.js",
-    "main.js.map": "/alchemy-cordial/static/js/main.27efc27f.chunk.js.map",
-    "runtime-main.js": "/alchemy-cordial/static/js/runtime-main.3ec5faa3.js",
-    "runtime-main.js.map": "/alchemy-cordial/static/js/runtime-main.3ec5faa3.js.map",
-    "static/js/2.9efb734c.chunk.js": "/alchemy-cordial/static/js/2.9efb734c.chunk.js",
-    "static/js/2.9efb734c.chunk.js.map": "/alchemy-cordial/static/js/2.9efb734c.chunk.js.map",
-    "static/js/3.5fd8b99b.chunk.js": "/alchemy-cordial/static/js/3.5fd8b99b.chunk.js",
-    "static/js/3.5fd8b99b.chunk.js.map": "/alchemy-cordial/static/js/3.5fd8b99b.chunk.js.map",
+    "main.css": "/alchemy-cordial/static/css/main.d35ed8b4.chunk.css",
+    "main.js": "/alchemy-cordial/static/js/main.9bd19b82.chunk.js",
+    "main.js.map": "/alchemy-cordial/static/js/main.9bd19b82.chunk.js.map",
+    "runtime-main.js": "/alchemy-cordial/static/js/runtime-main.dc258f80.js",
+    "runtime-main.js.map": "/alchemy-cordial/static/js/runtime-main.dc258f80.js.map",
+    "static/js/2.a28700de.chunk.js": "/alchemy-cordial/static/js/2.a28700de.chunk.js",
+    "static/js/2.a28700de.chunk.js.map": "/alchemy-cordial/static/js/2.a28700de.chunk.js.map",
+    "static/js/3.00e80b08.chunk.js": "/alchemy-cordial/static/js/3.00e80b08.chunk.js",
+    "static/js/3.00e80b08.chunk.js.map": "/alchemy-cordial/static/js/3.00e80b08.chunk.js.map",
     "index.html": "/alchemy-cordial/index.html",
-    "static/css/main.6f8f9b2c.chunk.css.map": "/alchemy-cordial/static/css/main.6f8f9b2c.chunk.css.map",
-    "static/js/2.9efb734c.chunk.js.LICENSE.txt": "/alchemy-cordial/static/js/2.9efb734c.chunk.js.LICENSE.txt",
+    "static/css/main.d35ed8b4.chunk.css.map": "/alchemy-cordial/static/css/main.d35ed8b4.chunk.css.map",
+    "static/js/2.a28700de.chunk.js.LICENSE.txt": "/alchemy-cordial/static/js/2.a28700de.chunk.js.LICENSE.txt",
     "static/media/Darril_Ling_Photo.596df1d8.png": "/alchemy-cordial/static/media/Darril_Ling_Photo.596df1d8.png",
     "static/media/company_logo.15f66fa2.png": "/alchemy-cordial/static/media/company_logo.15f66fa2.png",
     "static/media/elite-fine-foods.38a1e5ad.jpg": "/alchemy-cordial/static/media/elite-fine-foods.38a1e5ad.jpg",
     "static/media/elixirs.5d7b8548.jpg": "/alchemy-cordial/static/media/elixirs.5d7b8548.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3ec5faa3.js",
-    "static/js/2.9efb734c.chunk.js",
-    "static/css/main.6f8f9b2c.chunk.css",
-    "static/js/main.27efc27f.chunk.js"
+    "static/js/runtime-main.dc258f80.js",
+    "static/js/2.a28700de.chunk.js",
+    "static/css/main.d35ed8b4.chunk.css",
+    "static/js/main.9bd19b82.chunk.js"
   ]
 }
