@@ -1,5 +1,3 @@
-import elite from '../../../assets/contacts-logos/elite-fine-foods.jpg'
-
 export const DISTRIBUTOR_DATA = [
     {
         id: 1,

@@ -1,9 +1,11 @@
 import React from 'react'
 
+import './content-list.styles.scss'
+
 import ContentBox from '../../components/content-box/content-box.component'
 
-const ContentList = ({content}) => (
-    <div>
+const ContentList = ({content, color, font}) => (
+    <div className='content-list'>
         {
             content.map((singleContent, i) => (
                 <ContentBox 
@@ -12,6 +14,8 @@ const ContentList = ({content}) => (
                     descriptions={singleContent.descriptions}
                     alt={singleContent.alt}
                     src={singleContent.src}
+                    color={color}
+                    font={font}
                 />
             ))
         }

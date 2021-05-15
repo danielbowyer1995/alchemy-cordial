@@ -1,7 +1,6 @@
 import React from 'react'
 
 import './contact-list.styles.scss'
-import elite from '../../assets/contacts-logos/elite-fine-foods.jpg'
 
 import ContactCard from '../../components/contact-card/contact-card.component'
 

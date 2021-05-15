@@ -21,6 +21,8 @@ class Contact extends Component {
         return(
             <div className='contact-page'>
                 <ContentList
+                    color={'white'}
+                    font={'#af0522'}
                     content={this.state.content}
                 />
                 <ContactList

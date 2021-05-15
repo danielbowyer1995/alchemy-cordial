@@ -1,8 +1,10 @@
 .header-box {
-    text-align: -webkit-center;
-    margin-top: 16px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     height: 325px;
     background-color: white;
+    margin: 16px;
 
     .nav-menu {
         margin: 10px;
