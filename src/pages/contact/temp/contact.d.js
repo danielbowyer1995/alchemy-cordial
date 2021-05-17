@@ -2,7 +2,7 @@ export const CONTACT_CONTENT = [
     {
         header: 'get in touch today',
         descriptions: [
-            'Our team at Finest Drinks LTD will be happy to help you with your every need.'
+            'For more information on Alchemy and to become a distributor please contact;',
         ],
         alt: 'finest-drinks', 
         src: "https://i.ibb.co/TKxcZmC/finest-drinks-web.png"

@@ -4,8 +4,8 @@ import './contact-list.styles.scss'
 
 import ContactCard from '../../components/contact-card/contact-card.component'
 
-const ContactList = ({ contacts }) => (
-    <div className='contact-list'>
+const ContactList = ({ contacts, color }) => (
+    <div className='contact-list' style={{backgroundColor: color}}>
         {
             contacts.map((contact) => (
                 <ContactCard

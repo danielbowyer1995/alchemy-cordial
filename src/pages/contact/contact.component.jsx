@@ -20,14 +20,23 @@ class Contact extends Component {
     render(){
         return(
             <div className='contact-page'>
-                <ContentList
+                <div>
+                    <ContentList
                     color={'white'}
                     font={'#af0522'}
                     content={this.state.content}
-                />
-                <ContactList
+                    />
+                    <div>
+                        <ContactList 
+                        color={'white'}
+                            contacts={this.state.contacts}
+                        />
+                    </div>
+                </div>
+                
+                {/* <ContactList
                     contacts={this.state.contacts}
-                />
+                /> */}
             </div>
         )
     }

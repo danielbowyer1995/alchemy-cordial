@@ -11,9 +11,6 @@ const Header = () => (
             <img className='home-logo' alt='alchemy-logo' src={logo} />
         </Link>
         <div className='nav-menu'>
-            <h3 className='nav-option'>
-                Product List
-            </h3>
             <Link to="/contact">
                 <h3 className='nav-option'>
                     Contact Us

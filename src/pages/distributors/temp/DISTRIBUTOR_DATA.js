@@ -71,6 +71,16 @@ export const DISTRIBUTOR_DATA = [
         alt: 'clifton-coffee',
         src: "https://i.ibb.co/7pMs1QL/clifton-logo.png"
     },
+    {
+        id: 9,
+        name: 'Udal Supplies Ltd',
+        number: '0173 278 0943',
+        email: 'sales@udalsupplies.co.uk',
+        address: 'www.syrupsandstuff.co.uk',
+        alt: 'udal-supplies',
+        src: "https://i.ibb.co/kMLwQ0H/udal-logo.jpg"
+    },
+
 ]
 
 
