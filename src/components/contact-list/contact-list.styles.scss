@@ -7,10 +7,14 @@
     background-color: #af0522;
 }
 
-@media (min-width: 725px) {
+@media (min-width: 400px) {
+    .contact-list { grid-template-columns: repeat(1, 1fr); }
+}
+
+@media (min-width: 600px) {
     .contact-list { grid-template-columns: repeat(2, 1fr); }
 }
 
-@media (min-width: 1425px) {
+@media (min-width: 1400px) {
     .contact-list { grid-template-columns: repeat(4, 1fr); }
 }
