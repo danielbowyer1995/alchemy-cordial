@@ -2,7 +2,7 @@
   "name": "alchemy-cordial",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://danielbowyer1995.github.io/alchemy-cordial",
+  "homepage": "http://www.alchemysuperfoods.co.uk/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",

@@ -3,8 +3,6 @@ import { React, Component } from 'react'
 import './home.styles.scss'
 import { HOME_CONTENT } from './temp/home.d'
 
-import ContentBox from '../../components/content-box/content-box.component'
-
 import elixir from '../../assets/elixirs.jpg'
 import ContentList from '../../components/content-list/content-list.component'
 
