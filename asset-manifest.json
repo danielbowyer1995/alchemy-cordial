@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/alchemy-cordial/static/css/main.ed79a48f.chunk.css",
-    "main.js": "/alchemy-cordial/static/js/main.a0fb47c1.chunk.js",
-    "main.js.map": "/alchemy-cordial/static/js/main.a0fb47c1.chunk.js.map",
-    "runtime-main.js": "/alchemy-cordial/static/js/runtime-main.8f716983.js",
-    "runtime-main.js.map": "/alchemy-cordial/static/js/runtime-main.8f716983.js.map",
-    "static/js/2.a28700de.chunk.js": "/alchemy-cordial/static/js/2.a28700de.chunk.js",
-    "static/js/2.a28700de.chunk.js.map": "/alchemy-cordial/static/js/2.a28700de.chunk.js.map",
-    "static/js/3.98f102f7.chunk.js": "/alchemy-cordial/static/js/3.98f102f7.chunk.js",
-    "static/js/3.98f102f7.chunk.js.map": "/alchemy-cordial/static/js/3.98f102f7.chunk.js.map",
-    "index.html": "/alchemy-cordial/index.html",
-    "static/css/main.ed79a48f.chunk.css.map": "/alchemy-cordial/static/css/main.ed79a48f.chunk.css.map",
-    "static/js/2.a28700de.chunk.js.LICENSE.txt": "/alchemy-cordial/static/js/2.a28700de.chunk.js.LICENSE.txt",
-    "static/media/company_logo.15f66fa2.png": "/alchemy-cordial/static/media/company_logo.15f66fa2.png",
-    "static/media/elixirs.5d7b8548.jpg": "/alchemy-cordial/static/media/elixirs.5d7b8548.jpg"
+    "main.css": "/static/css/main.60fee4f2.chunk.css",
+    "main.js": "/static/js/main.bb5de667.chunk.js",
+    "main.js.map": "/static/js/main.bb5de667.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6e07864f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6e07864f.js.map",
+    "static/js/2.a28700de.chunk.js": "/static/js/2.a28700de.chunk.js",
+    "static/js/2.a28700de.chunk.js.map": "/static/js/2.a28700de.chunk.js.map",
+    "static/js/3.98f102f7.chunk.js": "/static/js/3.98f102f7.chunk.js",
+    "static/js/3.98f102f7.chunk.js.map": "/static/js/3.98f102f7.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.60fee4f2.chunk.css.map": "/static/css/main.60fee4f2.chunk.css.map",
+    "static/js/2.a28700de.chunk.js.LICENSE.txt": "/static/js/2.a28700de.chunk.js.LICENSE.txt",
+    "static/media/company_logo.15f66fa2.png": "/static/media/company_logo.15f66fa2.png",
+    "static/media/elixirs.5d7b8548.jpg": "/static/media/elixirs.5d7b8548.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8f716983.js",
+    "static/js/runtime-main.6e07864f.js",
     "static/js/2.a28700de.chunk.js",
-    "static/css/main.ed79a48f.chunk.css",
-    "static/js/main.a0fb47c1.chunk.js"
+    "static/css/main.60fee4f2.chunk.css",
+    "static/js/main.bb5de667.chunk.js"
   ]
 }
